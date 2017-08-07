@@ -1,0 +1,11 @@
+levellore: '等级要求: '
+classlore: '职业要求: '
+
+# 权限 class.killer
+# 权限 class.shit
+# 权限 class.isotope
+# 权限 class.asjdflkajsdlfk
+class:
+  killer: '剑客'
+  shit: '辣鸡'
+  isotope: '广告'
